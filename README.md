@@ -106,7 +106,7 @@ pip install spacy transformers SpeechRecognition
 Locate the project in Unreal Projects folder . Open Landscape.soln ( Visual Studio file ) .Press F5 (This starts Unreal Engine along with AirSim).
 Now, just press Play button and the drone seems to spwan at the Player Start point .
 Open Anaconda Prompt , Activate the created environment(here airsim_env) .
-Navigate to `AirSim/PythonClient/multirotor` , paste the given python codes instead of hello_drone.py (sample code given my Airsim) and execute one of the control scripts.
+Navigate to `AirSim/PythonClient/multirotor` , paste the given python codes instead of hello_drone.py (sample code given my Airsim) and execute one of the control scripts(Rule_Based, NLP Based, Zero-Shot).
 
 ### 6. Run the Code
 
